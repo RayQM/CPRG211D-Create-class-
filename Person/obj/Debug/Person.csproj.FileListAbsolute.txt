@@ -1,0 +1,8 @@
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Program\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Program\Person\obj\Debug\Person.csproj.SuggestedBindingRedirects.cache
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Program\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Program\Person\bin\Debug\Person.exe.config
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Program\Person\bin\Debug\Person.exe
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Program\Person\bin\Debug\Person.pdb
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Program\Person\obj\Debug\Person.exe
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Program\Person\obj\Debug\Person.pdb
